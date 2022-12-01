@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://webgradients.com/public/webgradients_png/016%20Deep%20Blue.png");
+}
+
+h1 {
+    padding-left: 2%;
+}
+
+h2 {
+    font-size: 130px;
+    top: 0px;
+    left: 110px;
+    transform: translate(-260px, -1300px);
+    background: none;
+}
+
+div {
+    position: relative;
+    text-align: center;
+}
+
+img {
+    background: none;
+}
