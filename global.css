@@ -14,6 +14,7 @@ h2 {
     top: 0px;
     left: 110px;
     transform: translate(-27%, -1600%);
+    /* Only works on desktop */
     background: none;
 }
 
